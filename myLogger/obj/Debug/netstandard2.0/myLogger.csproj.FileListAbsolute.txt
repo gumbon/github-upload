@@ -1,0 +1,9 @@
+C:\Users\NguyenTHL\source\repos\myLogger\myLogger\obj\Debug\netstandard2.0\myLogger.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTHL\source\repos\myLogger\myLogger\obj\Debug\netstandard2.0\myLogger.AssemblyInfoInputs.cache
+C:\Users\NguyenTHL\source\repos\myLogger\myLogger\obj\Debug\netstandard2.0\myLogger.AssemblyInfo.cs
+C:\Users\NguyenTHL\source\repos\myLogger\myLogger\bin\Debug\netstandard2.0\myLogger.deps.json
+C:\Users\NguyenTHL\source\repos\myLogger\myLogger\bin\Debug\netstandard2.0\myLogger.dll
+C:\Users\NguyenTHL\source\repos\myLogger\myLogger\bin\Debug\netstandard2.0\myLogger.pdb
+C:\Users\NguyenTHL\source\repos\myLogger\myLogger\obj\Debug\netstandard2.0\myLogger.dll
+C:\Users\NguyenTHL\source\repos\myLogger\myLogger\obj\Debug\netstandard2.0\myLogger.pdb
+C:\Users\NguyenTHL\source\repos\myLogger\myLogger\obj\Debug\netstandard2.0\myLogger.csprojAssemblyReference.cache
